@@ -66,7 +66,7 @@
 
 @import url(../blocks/place/__website/place__website.css);
 
-@import url(../blocks/place/__url_heading/place__url_heading.css);
+@import url(../blocks/place/__url-heading/place__url-heading.css);
 
 @import url(../blocks/place/__link/place__link.css);
 
@@ -91,10 +91,3 @@
 @import url(../blocks/footer/__link/footer__link.css);
 
 @import url(../blocks/footer/__copyright/footer__copyright.css);
-
-
-
-
-
-
-
