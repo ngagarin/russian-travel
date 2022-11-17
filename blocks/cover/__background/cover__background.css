@@ -1,0 +1,49 @@
+.cover__background {
+  background-image: url(../../../images/cover/__overlay.png);
+  background-size: cover;
+  background-position: center;
+  margin: 0 auto;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-decoration: none;
+  position: relative;
+  width: 100%;
+  max-width: 1184px;
+  max-height: 740px;
+  transition: 1s ease-in;
+}
+
+.cover__background:hover {
+  background-image: url(../../../images/cover/__overlay_dark.png);
+}
+
+@media screen and (max-width: 1024px) {
+  .cover__background {
+    max-width: 1024px;
+    max-height: 640px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover__background {
+    max-width: 768px;
+    max-height: 480px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .cover__background {
+    max-width: 768px;
+    max-height: 480px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover__background {
+    max-width: 320px;
+    max-height: 200px;
+    background-size: contain;
+  }
+}
