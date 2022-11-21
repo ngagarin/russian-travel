@@ -12,6 +12,10 @@
 4. Методология БЭМ
 5. Использование GIT
 
+### Просмотр сайта:
+
+Доступен на [GitHub pages](https://ngagarin.github.io/russian-travel)
+
 ### Инструкция по установке:
 
 Скопировать по [cсылке на GitHub](https://github.com/ngagarin/russian-travel.git)
