@@ -1,6 +1,4 @@
 .footer__link {
-  font-family: 'Inter';
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 18px;
@@ -9,12 +7,17 @@
   transition: 0.3s ease-in;
 }
 
+.footer__link:last-of-type {
+  margin-right: 0;
+}
+
 .footer__link:hover{
   opacity: 0.8;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
   .footer__link {
-    line-height: 14px;
+    font-size: 24px;
+    line-height: 24px;
   }
 }
