@@ -1,6 +1,6 @@
 .intro {
   margin: 92px 442px 0 148px;
-  width: calc(100% - (442px + 148px));
+  width: 690px;
   min-height: 429px;
 }
 
@@ -8,7 +8,6 @@
   .intro {
     margin-right: 226px;
     margin-left: 48px;
-    width: calc(100% - (226px + 48px));
   }
 }
 

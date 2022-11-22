@@ -16,7 +16,7 @@
 
 Доступен на [GitHub pages](https://ngagarin.github.io/russian-travel)
 
-### Инструкция по установке:
+#### Инструкция по установке:
 
 Скопировать по [cсылке на GitHub](https://github.com/ngagarin/russian-travel.git)
 
