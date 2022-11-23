@@ -9,7 +9,6 @@
   color: #FFFFFF;
 }
 
-
 @media screen and (max-width: 768px) {
   .lead__subtitle {
     max-width: calc(100% - 2*64px);

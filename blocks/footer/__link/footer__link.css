@@ -7,11 +7,7 @@
   transition: 0.3s ease-in;
 }
 
-.footer__link:last-of-type {
-  margin-right: 0;
-}
-
-.footer__link:hover{
+.footer__link:hover {
   opacity: 0.8;
 }
 
